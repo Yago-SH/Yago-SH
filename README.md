@@ -1,16 +1,24 @@
-## Hi there 👋
+Fala aí, eu sou o Yago SH
 
-<!--
-**Yago-SH/Yago-SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação focado em Python
+🚀 Em constante evolução, construindo projetos e aprendendo todos os dias
+📚 Atualmente estudando: Python, APIs, automação e backend
 
-Here are some ideas to get you started:
+🧠 Tecnologias que estou aprendendo
+🐍 Python
+🌐 APIs REST
+🗄️ Banco de Dados (SQLite / PostgreSQL)
+🧰 Git & GitHub
+🔥 Objetivos
+Construir projetos reais
+Conseguir minha primeira vaga como Dev Python
+Evoluir para backend profissional
+📌 Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Em breve...
+
+📫 Contato
+Email: yagodesouzahenrique@gmail.com
+LinkedIn: ( Em breve )
+
+⭐ "Disciplina vence motivação."
